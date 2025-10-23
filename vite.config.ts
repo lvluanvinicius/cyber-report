@@ -31,8 +31,8 @@ export default defineConfig({
                 'http://dev-cyber-report.luxesoftwares.com.br:8005',
             ]
         },
-        port: 8005,
+        port: 5177,
         host: '0.0.0.0',
-        origin: 'http://191.37.38.59:8005'
+        origin: 'http://191.37.38.59:5177'
     }
 });
